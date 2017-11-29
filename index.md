@@ -1,2 +1,4 @@
-## Welcome to Kelton's site
-
+# Kelton O'Brien
+## See my github for projects. 
+#### or
+## [click here for Robotics]()
