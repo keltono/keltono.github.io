@@ -6,7 +6,7 @@
 
 [CodeCademy Java](https://www.codecademy.com/learn/learn-java)
 ## Week two reading
-[Object oriented programming intro]
+[Object oriented programming intro](https://goo.gl/mK4zRZ)
 ## Week three reading
 [WPILIB tutorial](https://wpilib.screenstepslive.com/s/currentCS/m/java)
 
