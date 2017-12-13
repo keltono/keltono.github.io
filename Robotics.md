@@ -8,9 +8,13 @@
 ## Week two reading
 [Object oriented programming intro](https://goo.gl/mK4zRZ)
 ## Week three reading
-[WPILIB tutorial](https://wpilib.screenstepslive.com/s/currentCS/m/java)
 
 [In-depth FRC programming tutorial](https://www.youtube.com/watch?v=t-otjytqzCw) 
 [part 2](https://www.youtube.com/watch?v=WO-FAKuhpNs)
 
 [Into to java development part 2](https://www.ibm.com/developerworks/java/tutorials/j-introtojava2/index.html) goes past the scope of week 3  in areas. (we don't cover generics for instance)
+
+## Week four reading
+
+[WPILIB tutorial](https://wpilib.screenstepslive.com/s/currentCS/m/java)
+
