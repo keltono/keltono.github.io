@@ -12,9 +12,7 @@
 [WPILIBJ documentation/reference](http://first.wpi.edu/FRC/roborio/release/docs/java/)
 ## Week three reading
 WIP 
-[part 2](https://www.youtube.com/watch?v=WO-FAKuhpNs)
-
-[Into to java development part 2](https://www.ibm.com/developerworks/java/tutorials/j-introtojava2/index.html) goes past the scope of week 3  in areas. (we don't cover generics for instance)
+[Video tutorial](https://www.youtube.com/watch?v=WO-FAKuhpNs) (this one uses the eclipse IDE which we don't use anymore, but the code should be the same)
 
 ## Week four reading
 
