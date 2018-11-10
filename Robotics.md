@@ -18,14 +18,10 @@ TODO: WPILIB overview and structure
 ## Week two reading (OOP & intro to WPILIB) 
 [Object oriented programming intro](https://goo.gl/mK4zRZ)
 
-[WPILIB "tutorial"](https://wpilib.screenstepslive.com/s/currentCS/m/java)
+[WPILIB "tutorial" by FRC](https://wpilib.screenstepslive.com/s/currentCS/m/java)
 
 [WPILIBJ documentation/reference](http://first.wpi.edu/FRC/roborio/release/docs/java/)
 ## Week three reading
-WIP 
-[Video tutorial](https://www.youtube.com/watch?v=WO-FAKuhpNs) (this one uses the eclipse IDE which we don't use anymore, but the code should be the same)
 
-## Week four reading
-
-[WPILIB tutorial](https://wpilib.screenstepslive.com/s/currentCS/m/java)
-
+[Video tutorial](https://www.youtube.com/watch?v=t-otjytqzCw) (this one uses the eclipse IDE which we don't use anymore, but the code should be the same)
+[Video tutorial pt. 2](https://www.youtube.com/watch?v=WO-FAKuhpNs)
