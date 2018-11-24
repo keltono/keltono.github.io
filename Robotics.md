@@ -36,4 +36,5 @@
 #### these are also outdated, but still useful in showing examples and relaying the core things.
 
 [Video tutorial](https://www.youtube.com/watch?v=t-otjytqzCw) (this one uses the eclipse IDE which we don't use anymore, but the code should be the same)
+
 [Video tutorial pt. 2](https://www.youtube.com/watch?v=WO-FAKuhpNs)
