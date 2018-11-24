@@ -13,14 +13,13 @@
 
 ## Java 
 
-[CodeCademy Java. ](https://www.codecademy.com/learn/learn-java) 
-#### Do this!
+[CodeCademy Java. Do this!](https://www.codecademy.com/learn/learn-java) 
 
 [Object oriented programming intro](https://goo.gl/mK4zRZ) 
 
 ## FRC Robot programming sources 
 
-[cheif delphi, the FRFC fourm](https://www.chiefdelphi.com/forums/forumdisplay.php?f=184)
+[cheif delphi, the FRC fourm](https://www.chiefdelphi.com/forums/forumdisplay.php?f=184)
 
 [FRC programming done right](https://frc-pdr.readthedocs.io/en/latest/index.html)
 #### this one can be pretty janky, and tends to use pseudo code over actual java code, but the information is very good.
