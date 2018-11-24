@@ -3,7 +3,7 @@
 ## Setup:
 
 [Quick Start Guide](https://gist.github.com/keltono/cebfbbba6dc60ddd800ec1d27ff6fb24)
-### NOTE: THIS DOES NOT INCLUDE VSCODE INSTALLATION. THAT IS THE LINK BELOW
+#### NOTE: THIS DOES NOT INCLUDE VSCODE INSTALLATION. THAT IS THE LINK BELOW
 
 [Set up WPILIB/VS Code](http://wpilib.screenstepslive.com/s/currentCS/m/79833)
 
