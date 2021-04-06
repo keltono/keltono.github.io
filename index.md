@@ -1,2 +1,2 @@
 # Kelton O'Brien
-## [click here for Robotics](/Robotics)
+## [click here for my new website](https://keltono.net)
