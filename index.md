@@ -1,2 +1,2 @@
-# Kelton O'Brien
-## [click here for my new website](https://keltono.net)
+# Kelton OBrien
+## [My website has moved. Click here to be redirected.](https://keltono.net)
